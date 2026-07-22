@@ -1,5 +1,14 @@
 # @effect/ai-openai
 
+## 4.0.0-beta.101
+
+### Patch Changes
+
+- [#6519](https://github.com/Effect-TS/effect/pull/6519) [`0e116a1`](https://github.com/Effect-TS/effect/commit/0e116a139c9d7af7c7e0ccbb7b5669926477370e) Thanks @tim-smart! - Preserve OpenAI Responses API cache write token usage in language model responses.
+
+- Updated dependencies [[`b35ed29`](https://github.com/Effect-TS/effect/commit/b35ed2904f01536d303b21f288daf343cf740462), [`dd44624`](https://github.com/Effect-TS/effect/commit/dd446245736a0e88c807a02f03c21450bb9340fa)]:
+  - effect@4.0.0-beta.101
+
 ## 4.0.0-beta.100
 
 ### Patch Changes

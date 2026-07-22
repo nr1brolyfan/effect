@@ -1,5 +1,14 @@
 # @effect/sql-mysql2
 
+## 4.0.0-beta.101
+
+### Patch Changes
+
+- [#6510](https://github.com/Effect-TS/effect/pull/6510) [`a808666`](https://github.com/Effect-TS/effect/commit/a80866655f414888336eb0f1bdd03dfdf1a742b8) Thanks @sam-goodwin! - Add `disablePreparedStatements` to `MysqlClientConfig`, to completely disable prepared statements
+
+- Updated dependencies [[`b35ed29`](https://github.com/Effect-TS/effect/commit/b35ed2904f01536d303b21f288daf343cf740462), [`dd44624`](https://github.com/Effect-TS/effect/commit/dd446245736a0e88c807a02f03c21450bb9340fa)]:
+  - effect@4.0.0-beta.101
+
 ## 4.0.0-beta.100
 
 ### Patch Changes

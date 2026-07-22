@@ -1,5 +1,14 @@
 # @effect/ai-openrouter
 
+## 4.0.0-beta.101
+
+### Patch Changes
+
+- [#6518](https://github.com/Effect-TS/effect/pull/6518) [`017f384`](https://github.com/Effect-TS/effect/commit/017f384b1e40eeac220cff6781feb02e89fda349) Thanks @leodenham! - Fix dynamic tools defined with a raw JSON schema sending empty parameter schema to OpenRouter
+
+- Updated dependencies [[`b35ed29`](https://github.com/Effect-TS/effect/commit/b35ed2904f01536d303b21f288daf343cf740462), [`dd44624`](https://github.com/Effect-TS/effect/commit/dd446245736a0e88c807a02f03c21450bb9340fa)]:
+  - effect@4.0.0-beta.101
+
 ## 4.0.0-beta.100
 
 ### Patch Changes
